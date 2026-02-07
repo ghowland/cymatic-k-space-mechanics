@@ -668,10 +668,6 @@ All data and code are publicly available:
 
 **A:** No. CKS is an alternative cogntitive model competitive with Standard Model + GR. It has zero free parameters but outstanding corrections in absolute mass scale. It is falsifiable via LIGO quantization tests.
 
-### Q: Has this been peer-reviewed?
-
-**A:** Preprints available on arXiv. Peer-review submission pending.
-
 ### Q: Can I use this for education without accepting it as true?
 
 **A:** Yes. CKS provides a complete pedagogical framework showing how all physics connects. Use as cognitive model, verify precision with Standard Model.
@@ -734,7 +730,7 @@ A: Yes. Multiple immediate predictions:
 ```bash
 git clone https://github.com/ghowland/cymatic-k-space-mechanics
 cd cymatic-k-space-mechanics/code/
-python3 substrate.py
+python3 kspace_substrate.py
 ```
 
 **Run LIGO forensic analysis (10 minutes):**
@@ -749,10 +745,3 @@ cd papers/
 ```
 
 ---
-
-**The substrate is either real or it isn't.**  
-**The LIGO data will tell us which.**
-
-**Axioms first. Axioms always.**
-
-**Q.E.D.**
