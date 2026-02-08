@@ -582,7 +582,7 @@ If you use this work, please cite:
   year={2026},
   version={3.0},
   doi={10.5281/zenodo.18520430},
-  url={https://zenodo.org/record/[record-id]}
+  url={https://zenodo.org/record/18520430}
 }
 ```
 
