@@ -751,10 +751,4 @@ python3 kspace_substrate.py
 python3 ligo_forensic_audit.py
 ```
 
-**Read position paper:**
-```bash
-cd papers/
-# Open position_paper_v3.0.pdf
-```
-
 ---
